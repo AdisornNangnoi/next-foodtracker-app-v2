@@ -8,7 +8,7 @@ const prompt = Prompt({
 });
 
 export const metadata: Metadata = {
-  title: "Food Tracker App",
+  title: "Food Tracker App V.2",
   description: "Food Tracker for everybody",
   keywords: ["Food", "Tracker", "อาหาร", "ติดตาม"],
   icons: { icon: "/next.svg", shortcut: "/shortcut.png" },
